@@ -1,5 +1,12 @@
 # OpenCabinetClient 
 An easy to deploy home server (client)
+
+# To-DO
+[ ] Login/signup portal
+[ ] View drawers + files
+[ ] Upload/edit/destroy/view files
+[ ] admin mode
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
